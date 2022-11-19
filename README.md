@@ -1,11 +1,9 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Talk: O Backstage do CSS
 
-To start the slide show:
+> Feito usando [Slidev](https://github.com/slidevjs/slidev)!
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+Para rodar os slides localmente:
 
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+1. `npm install`
+2. `npm run dev`
+3. Acesse <http://localhost:3030>
