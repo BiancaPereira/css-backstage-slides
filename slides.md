@@ -5,16 +5,17 @@ lineNumbers: true
 title: O Backstage do CSS
 ---
 
-# O Backstage do CSS
+# O <span class="text-pink-500">Backstage</span> do CSS
+
 Bora aprender como o CSS funciona por baixo dos panos?
 <div class="justify-center">
-  <img src="/assets/images/oculos-estrelinha.svg" class="h-40" />
+  <img src="/assets/images/oculos-estrelinha.svg" class="h-40 m-10" />
 </div>
 
 
 ---
 
-# "O CSS é fácil de aprender, mas difícil de dominar"
+# "O CSS é fácil de <span class="text-pink-500">aprender</span>, mas difícil de <span class="text-pink-500">dominar</span>"
 <img src="/assets/images/confusa.svg" class="h-40" />
 
 ---
