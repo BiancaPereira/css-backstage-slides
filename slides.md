@@ -1,12 +1,21 @@
 ---
-theme: eloc
+theme: ./theme
 highlighter: shiki
 lineNumbers: true
+title: O Backstage do CSS
 ---
 
-# Welcome to Slidev
+# O Backstage do CSS
+Bora aprender como o CSS funciona por baixo dos panos?
+<div class="justify-center">
+  <img src="/assets/images/oculos-estrelinha.svg" class="h-40" />
+</div>
 
-Presentation slides for developers
+
+---
+
+# "O CSS é fácil de aprender, mas difícil de dominar"
+<img src="/assets/images/confusa.svg" class="h-40" />
 
 ---
 
