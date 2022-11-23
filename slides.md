@@ -244,10 +244,10 @@ flowchart
       <twemoji-sparkles /> <a href="https://biancapereira.github.io/bibi-garden/CSS%20backstage/Como%20o%20CSS%20funciona%3F/">Referências</a> <twemoji-sparkles />
     </strong>
     <ul class="text-3xl">
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/biancacpereira">https://www.linkedin.com/in/biancacpereira</a></li>
-      <li>Twitter: <a href="https://twitter.com/BiaSailorGeek">https://twitter.com/BiaSailorGeek</a></li>
-      <li>Instagram: <a href="https://www.instagram.com/biibis_">https://www.instagram.com/biibis_</a></li>
-      <li>Github: <a href="https://github/biancapereira">https://github/biancapereira</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/biancacpereira">biancacpereira</a></li>
+      <li>Twitter: <a href="https://twitter.com/BiaSailorGeek">@BiaSailorGeek</a></li>
+      <li>Instagram: <a href="https://www.instagram.com/biibis_">@biibis_</a></li>
+      <li>Github: <a href="https://github/biancapereira">biancapereira</a></li>
     </ul>
   </div>
 </div>
