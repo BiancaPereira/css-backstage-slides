@@ -62,6 +62,7 @@ flowchart LR
 - Árvore criada a partir do HTML
 - A árvore é composta de vários nós (nodes)
 - Se organiza de forma hierárquica
+- Quanto mais nós a árvore possuir, mas tempo o browser leva para construí-la
 
 <h2><twemoji-backhand-index-pointing-right-medium-skin-tone /></h2>
 
