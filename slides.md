@@ -133,7 +133,7 @@ p {
   color: blue;
 }
 
-body h1 {
+body p {
   color: green;
 }
 
