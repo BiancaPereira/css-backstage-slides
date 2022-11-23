@@ -40,8 +40,8 @@ Bora aprender como o CSS funciona por baixo dos panos?
 
 - Entender como o browser funciona
 - Cada navegador tem sua forma de renderizar o conteúdo na tela
-- Performance <twemoji-rocket />
 - <span class="text-pink-500">Critical Rendering Path</span> **(CRP)**
+- Performance <twemoji-rocket />
 
 ---
 
