@@ -113,7 +113,7 @@ flowchart
 - Árvore criada a partir do CSS
 - Estrutura similar a árvore DOM
 - Essa árvore é criada de forma <span class="text-pink-500">muito rápida</span>
-- Seletores mais específicos são mais rápidos do que os menos específicos
+- Seletores com menos níveis são mais rápidos do que os com mais níveis
 
 <h2><twemoji-backhand-index-pointing-right-medium-skin-tone /></h2>
 
